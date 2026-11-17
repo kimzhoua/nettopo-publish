@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 1,\n  \"versionName\": \"1.0.0\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-publish/main/dist/app-1.0.0.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-publish/main/dist/app-1.0.0.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/nettopo-publish/main/dist/update.json\",\n  \"sha256\": \"83b645a255aadb259a5cefdd92ba15e573f001143f5f34038047ee9909ce765a\",\n  \"notes\": \"首个版本：手绘 + 自动生成拓扑，支持 PNG/PDF/工程导出\"\n}",
+  "sig": "hiit37BOfCNnupw5nbej5PPlbcjn9GYHSt6uKTBdlidG0QgGXekReGKtLdPOdgMEpxdssc2CJr6eLy/KFncdBTYPxYoQmVYz7yhzABEAj+2ts6gGmc2ITFofv2CGhMynqDdURHXGdLRH4SFq/0baLlssrhtEJyuDmMBw4w/ZAOO7v7egMki77NNRysXaRgdzfYHnksHum7/76M7rAuBLyfPaycuDrNyGyANSpqwGOxMNqQ3t1JlH7c95buql/6mE+S2g48rSTQoDTWVRxH1ouF1Z2uUE7LX6wcNZalky30HpLueUyJ9xQNrOSrcgYi1rrbB8q8ukukFSlQEKGZh77Q=="
+}
